@@ -1,0 +1,78 @@
+.left {
+    text-align: left
+}
+
+/* ChatBot.css */
+.chat-container {
+    max-width: 600px;
+    width:500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.chat-messages {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.message {
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 70%;
+}
+
+.user {
+    align-self: flex-end;
+    background-color: #3498db;
+    color: white;
+}
+
+.bot {
+    align-self: flex-start;
+    background-color: #2ecc71;
+    color: white;
+}
+
+.input-container {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.input-field {
+    flex: 1;
+    padding: 10px;
+}
+
+.send-button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .send-button:hover {
+        background-color: #2980b9;
+    }
+.header {
+    background-color: #dc9292; /* Background color of the header */
+    color: #000000; /* Text color of the header */
+    padding: 0px; /* Padding around the header content */
+    padding-bottom:10px;
+    padding-top:10px;
+    font-size: 30px; /* Font size of the header text */
+    font-weight: bold; /* Font weight of the header text */
+    position: fixed; /* Fixed position to keep the header at the top */
+    top: 0; /* Align the header at the top */
+    width: 500px; /* Make the header span the full width of the container */
+    z-index: 999; /* Ensure the header is on top of other elements */
+}
+
+

@@ -1,0 +1,6 @@
+@AzureQnAChatBot.Server_HostAddress = http://localhost:5116
+
+GET {{AzureQnAChatBot.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

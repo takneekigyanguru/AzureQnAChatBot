@@ -1,0 +1,2 @@
+E:\Takneekigyanguru\Code\dotnet\asp.net\AzureQnAChatBot\chatgptchatbot.client\obj\Debug\azureqnachatbot.client.esproj.CoreCompileInputs.cache
+E:\Takneekigyanguru\Code\dotnet\asp.net\AzureQnAChatBot\azureqnachatbot.client\obj\Debug\azureqnachatbot.client.esproj.CoreCompileInputs.cache
